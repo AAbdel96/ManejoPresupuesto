@@ -86,5 +86,7 @@ namespace ManejoPresupuesto.Servicios
             using var connection = new SqlConnection(connectionString);
             await connection.ExecuteAsync(query, tipoCuentasOrdenados);
         }
+
+        
     }
 }
