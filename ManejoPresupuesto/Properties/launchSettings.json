@@ -11,6 +11,7 @@
     "ManejoPresupuesto": {
       "commandName": "Project",
       "dotnetRunMessages": true,
+      "hotReloadEnabled": true,
       "launchBrowser": true,
       "applicationUrl": "https://localhost:7097;http://localhost:5097",
       "environmentVariables": {
